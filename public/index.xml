@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Rooney</title>
+    <link>https://jhnwr.com/</link>
+    <description>Recent content on John Rooney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Sep 2020 11:29:13 +0100</lastBuildDate>
+    
+	<atom:link href="https://jhnwr.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://jhnwr.com/about/</link>
+      <pubDate>Sat, 19 Sep 2020 11:29:13 +0100</pubDate>
+      
+      <guid>https://jhnwr.com/about/</guid>
+      <description>Hi and thanks for checking out my portfolio site. It&amp;rsquo;s build with Hugo, which is a fantastic site generator.</description>
+    </item>
+    
+    <item>
+      <title>Shopify Product Extractor</title>
+      <link>https://jhnwr.com/projects/shopifyextractor/</link>
+      <pubDate>Sat, 19 Sep 2020 11:28:23 +0100</pubDate>
+      
+      <guid>https://jhnwr.com/projects/shopifyextractor/</guid>
+      <description>I created this scraper for a client who ran over 300 Shopify webstores, and wanted to extract the image URL along with some other data for each one.</description>
+    </item>
+    
+    <item>
+      <title>Job Site Scraper</title>
+      <link>https://jhnwr.com/projects/jobscraper/</link>
+      <pubDate>Sat, 19 Sep 2020 11:26:25 +0100</pubDate>
+      
+      <guid>https://jhnwr.com/projects/jobscraper/</guid>
+      <description>I was asked if I could scrape a jobsite at regular intervals for a client who would then sort through the data for personal use.</description>
+    </item>
+    
+  </channel>
+</rss>
